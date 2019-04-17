@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xeijiehaez.musicandthemindofthe.world/sitemap.xml
